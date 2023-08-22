@@ -7,6 +7,10 @@ Credit card fraud detection project involves creating a system or application th
 
 ## About - 
 
+Fraud Detection model based on anonymized credit card transactions
+
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+
 ![Credit Card Fraud Detection](https://github.com/Dipanshu-Jagat/Credit-Card-Fraud-Detection/assets/86709644/f4b4011e-c0c8-4d34-9e2e-ad117a5ded41)
 
 A credit card fraud detection project involves the development of a system or application that identifies and prevents fraudulent transactions on credit and debit cards. This is a critical application in the financial industry, as it helps protect both cardholders and financial institutions from unauthorized and potentially damaging transactions. Below is a detailed project description for a credit card fraud detection system:
